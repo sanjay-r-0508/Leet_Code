@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
