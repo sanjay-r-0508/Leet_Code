@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1677-matrix-diagonal-sum) |
@@ -61,12 +62,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
