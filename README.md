@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
+| [1656-count-good-triplets](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1677-matrix-diagonal-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
