@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1677-matrix-diagonal-sum) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,11 +46,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1894-merge-strings-alternately) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -76,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
