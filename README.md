@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
