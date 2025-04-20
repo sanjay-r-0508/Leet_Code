@@ -3,20 +3,17 @@ class Solution {
         int[] row = new int[m];
         int[] col = new int[n];
 
-        for (int[] index : indices) {
-            row[index[0]]++;
-            col[index[1]]++;
+        for (int[] idx : indices) {
+            row[idx[0]]++;
+            col[idx[1]]++;
         }
 
-        int count = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if ((row[i] + col[j]) % 2 != 0) {
-                    count++;
-                }
-            }
-        }
+        int oddRows = 0;
+        int oddCols = 0;
 
-        return count;
+        for (int r : row) if (r % 2 == 1) oddRows++;
+        for (int c : col) if (c % 2 == 1) oddCols++;
+        
+        return oddRows * (n - oddCols) + (m - oddRows) * oddCols;
     }
 }
