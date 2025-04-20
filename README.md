@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
+| [2406-decode-the-message](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2406-decode-the-message) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1894-merge-strings-alternately) |
+| [2406-decode-the-message](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2406-decode-the-message) |
 ## Bit Manipulation
 |  |
 | ------- |
