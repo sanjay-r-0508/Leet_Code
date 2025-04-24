@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
