@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0978-valid-mountain-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2048-build-array-from-permutation) |
