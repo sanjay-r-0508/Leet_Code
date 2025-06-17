@@ -1,12 +1,8 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        Set<Character> set = new HashSet<>();
-
-        for(char ch:sentence.toCharArray()){
-            set.add(ch);
+        for(int i=97;i<=122;i++){
+            if(!sentence.contains(String.valueOf((char)i)))   return false ;
         }
-        if(set.size()==26) return true;
-
-        return false;
+        return true ;
     }
 }
