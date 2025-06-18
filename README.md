@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1894-merge-strings-alternately) |
