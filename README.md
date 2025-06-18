@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0605-can-place-flowers) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0978-valid-mountain-array) |
@@ -144,4 +145,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
