@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1500-count-largest-group](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1500-count-largest-group) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2406-decode-the-message) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -148,4 +150,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0605-can-place-flowers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
