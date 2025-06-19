@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0605-can-place-flowers) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0605-can-place-flowers) |
 ## Queue
