@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1500-count-largest-group](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1500-count-largest-group) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
 | [1500-count-largest-group](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1500-count-largest-group) |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -124,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 ## Matrix
@@ -147,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
 |  |
