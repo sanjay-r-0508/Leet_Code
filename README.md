@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0344-reverse-string) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
