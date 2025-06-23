@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
