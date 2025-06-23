@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1677-matrix-diagonal-sum) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
 |  |
