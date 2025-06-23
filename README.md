@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0605-can-place-flowers) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
 | [1500-count-largest-group](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1500-count-largest-group) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
@@ -222,4 +227,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
