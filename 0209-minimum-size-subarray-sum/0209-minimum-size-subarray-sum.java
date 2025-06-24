@@ -12,12 +12,7 @@ class Solution {
                 sum-=nums[start++];
             }
         }
-        if(minLength==Integer.MAX_VALUE){
-            minLength=0;
-        }
-        else{
-            return minLength;
-        }
-        return minLength;
+        
+        return minLength==Integer.MAX_VALUE ? 0 : minLength;
     }
 }
