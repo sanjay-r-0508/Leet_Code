@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0238-product-of-array-except-self) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
