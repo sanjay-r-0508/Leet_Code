@@ -1,25 +1,22 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Long f=null, s=null, t=null;
+        long f=Long.MIN_VALUE, s=Long.MIN_VALUE, t=Long.MIN_VALUE;
 
         for(int num:nums){
-            long val = (long) num;
-            if((f!=null && f==val) || (s!=null && s==val) || (t!=null && t==val)){
-                continue;
-            }
-            if(f==null || val>f){
+            if((long) num>f){
                 t=s;
                 s=f;
-                f=val;
+                f=num;
             }
-            else if(s==null || val>s){
+            else if((long)num >s && (long)num!=f){
                 t=s;
-                s=val;
+                s=num;
             }
-            else if(t==null || val>t){
-                t=val;
+            else if((long) num > t && (long) num!=f && (long)num!=s){
+                t=num;
             }
+                    
         }
-        return t==null ? f.intValue() : t.intValue();
+        return t==Long.MIN_VALUE ? (int)f : (int) t;
     }
 }
