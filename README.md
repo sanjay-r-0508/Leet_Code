@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
