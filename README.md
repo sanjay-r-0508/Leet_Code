@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2406-decode-the-message](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2406-decode-the-message) |
+| [2580-circular-sentence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2580-circular-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
