@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
 | ------- |
