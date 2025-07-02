@@ -7,8 +7,8 @@ class Solution {
             char ch = s.charAt(right);
             if(!seen.contains(ch)){
                 seen.add(ch);
+                maxLen= Math.max(maxLen, right-left+1);
                 right++;
-                maxLen= Math.max(maxLen, right-left);
             }
             else{
                 seen.remove(s.charAt(left));
