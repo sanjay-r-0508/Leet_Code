@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0152-maximum-product-subarray) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
