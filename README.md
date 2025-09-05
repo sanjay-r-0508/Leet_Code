@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
