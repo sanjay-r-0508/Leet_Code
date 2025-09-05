@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0125-valid-palindrome) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0258-add-digits) |
