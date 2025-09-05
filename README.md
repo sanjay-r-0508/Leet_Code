@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0978-valid-mountain-array) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
