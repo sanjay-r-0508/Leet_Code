@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sanjay-r-0508/Leet_Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/sanjay-r-0508/Leet_Code/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
