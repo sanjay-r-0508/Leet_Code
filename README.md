@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0053-maximum-subarray) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
