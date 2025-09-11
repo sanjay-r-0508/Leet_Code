@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0043-multiply-strings) |
@@ -321,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1801-average-time-of-process-per-machine](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1908-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
