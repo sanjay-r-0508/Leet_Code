@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0268-missing-number) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0392-is-subsequence) |
 ## Stack
@@ -332,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
