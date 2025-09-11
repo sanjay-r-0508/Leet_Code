@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2406-decode-the-message](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2406-decode-the-message) |
 | [2580-circular-sentence](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2580-circular-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/sanjay-r-0508/Leet_Code/tree/master/2887-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
